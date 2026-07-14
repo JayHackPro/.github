@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/JayHackPro/.github/main/profile/assets/banner.png" alt="JayHackPro, cybersecurity software from Los Angeles, California. Let's make the world a better place." width="100%">
 
-<p><strong>We find and remove the threats hiding in real systems,<br>and open source the tools that help everyone.</strong></p>
+<p><strong>JayHackPro finds and removes the threats hiding in real systems,<br>then open-sources the tools that help everyone.</strong></p>
 
 [![Website](https://img.shields.io/badge/website-JayHackPro.com-46f08a?labelColor=0b120e)](https://www.JayHackPro.com)
 [![X](https://img.shields.io/badge/follow-@JayHackPro-46f08a?labelColor=0b120e&logo=x&logoColor=white)](https://x.com/JayHackPro)
@@ -12,16 +12,17 @@
 
 ---
 
-## Who we are
+## About JayHackPro
 
 **JayHackPro® Inc.** is a software development company focused on cybersecurity,
-based in Los Angeles, California. We build fast, honest security tools that do one
-thing well, and we open source the ones that make the web safer for everyone.
+based in Los Angeles, California. The company builds fast, honest security tools
+that do one thing well, and open-sources the ones that make the web safer for
+everyone.
 
 A good security tool should be small enough to trust, sharp enough to matter, and
-readable enough to audit in an afternoon. That is the bar we build to.
+readable enough to audit in an afternoon. That is the bar JayHackPro builds to.
 
-## What we build
+## What JayHackPro builds
 
 ### JayShield®  ·  find and remove web malware
 
@@ -37,10 +38,10 @@ npx @jayhackpro/jayshield ./public_html
 
 More tools are on the way.
 
-## How we work
+## How JayHackPro works
 
 - **Open source by default.** The tools that help everyone should belong to everyone.
-- **Zero telemetry.** We do not track you, and our tools never phone home.
+- **Zero telemetry.** JayHackPro does not track you, and its tools never phone home.
 - **Few dependencies.** Less to trust, less to break, less to hide.
 - **Readable by design.** If you cannot read a security tool, you cannot trust it.
 
