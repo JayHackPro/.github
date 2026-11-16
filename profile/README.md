@@ -24,17 +24,17 @@ readable enough to audit in an afternoon. That is the bar JayHackPro builds to.
 
 ## What JayHackPro builds
 
-### JayShield®  ·  find and remove web malware
+### JaySift  ·  find and remove web malware
 
 A fast, dependency-free malware scanner and remover for websites and servers. It
 hunts down webshells, backdoors, obfuscated payloads, and injected miners across
 your files, then quarantines them safely without deleting a byte.
 
 ```bash
-npx @jayhackpro/jayshield ./public_html
+npx jaysift ./public_html
 ```
 
-**[Repository](https://github.com/JayHackPro/JayShield)**  ·  **[Website](https://jayhackpro.github.io/JayShield/)**  ·  **[npm](https://www.npmjs.com/package/@jayhackpro/jayshield)**
+**[Repository](https://github.com/JayHackPro/JaySift)**  ·  **[Website](https://jayhackpro.github.io/JaySift/)**  ·  **[npm](https://www.npmjs.com/package/jaysift)**
 
 More tools are on the way.
 
